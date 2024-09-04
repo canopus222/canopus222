@@ -9,7 +9,7 @@ on:
 jobs:
 build:
   runs-on: ubuntu-latest
-  name: generate-github-cards
+  name: generate-github-profile-summery-cards
   permissions:
     contents: write
 
